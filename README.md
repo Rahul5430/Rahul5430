@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Rahul Sharma, a **Full Stack Web Developer** pursuing my Bachelors in **Electronics & Communication Engineering**.
+🎓 I am Rahul Sharma, a **Full Stack Web Developer** pursuing my Bachelors in **Electronics & Communication Engineering** from [**Punjab Engineering College**](https://pec.ac.in/).
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies.
 
