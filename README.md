@@ -77,7 +77,7 @@
 ## 📈 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&hide_border=true" alt="Rahul Sharma's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&hide_border=true&theme=blue-green" alt="Rahul Sharma's GitHub Stats">
 </div>
 
 <div align="center">
