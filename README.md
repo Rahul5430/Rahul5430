@@ -79,9 +79,9 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&hide_border=true&theme=blue-green" alt="Rahul Sharma's GitHub Stats">
 </div>
-<div align="center">
+<!-- <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5430&theme=blue-green" alt="Rahul Sharma's Most Used Language Stats">
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahul5430.Rahul5430" alt="visitors">
