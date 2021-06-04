@@ -76,8 +76,13 @@
 
 ## 📈 Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&hide_border=true&theme=blue-green" alt="Rahul Sharma's GitHub Stats">
+<div style="display: flex;">
+ <div style="flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&hide_border=true&theme=blue-green" alt="Rahul Sharma's GitHub Stats">
+ </div>
+ <div style="flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5430&theme=blue-green" alt="Rahul Sharma's Most Used Language Stats">
+ </div>
 </div>
 
 <div align="center">
