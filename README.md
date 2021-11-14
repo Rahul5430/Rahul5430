@@ -14,7 +14,7 @@
 -   🥇 **Winner of Robotronics-II Competition** at _PEC_ (February 2021)
 -   ⭐ **AIR 3** at _CSIO-ISTC_ (July 2018)
 <!-- -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021) -->
-<!-- -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020) -->
+-   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2021_ (October 2021)
 <!-- -   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
 -   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019) -->
 
@@ -93,7 +93,7 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://rahulsharma.vercel.app/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rahulsharma.vercel.app/resume.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rahul5430)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/rahul5430)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/rahul5430)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rahul5430)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahul2702sharma@gmail.com)
 <!-- [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044) -->
