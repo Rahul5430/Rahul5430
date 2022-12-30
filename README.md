@@ -87,10 +87,15 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahul5430&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&hide_border=true&theme=blue-green" alt="Rahul Sharma's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&theme=blue-green&count_private=true" width=57.5% alt="Rahul Sharma's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul5430&layout=compact&theme=blue-green&langs_count=8" width=41.5% alt="Rahul Sharma's GitHub Stats">
+  <br />
+  <div align="center">
+    <img width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul5430&theme=dark" alt="Rahul5430" />
+  </div>
   <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahul5430.Rahul5430" alt="visitors">
-</div>
+ </div>
 
 ## 🔗 Links
 
