@@ -77,14 +77,10 @@
 
 ## 📈 Stats
 
-<!-- <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&hide_border=true&theme=blue-green" alt="Rahul Sharma's GitHub Stats">
-</div> -->
-<!-- <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5430&theme=blue-green" alt="Rahul Sharma's Most Used Language Stats">
-</div> -->
-
 <div align="center">
+  <img src="https://wakatime.com/badge/user/bc422347-c002-4bca-a9db-ef7ccfa77e4e.svg" alt="wakatime stats">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahul5430.Rahul5430" alt="visitors">
+  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=rahul5430&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&theme=blue-green&count_private=true" width=57.5% alt="Rahul Sharma's GitHub Stats">
@@ -93,9 +89,12 @@
   <div align="center">
     <img width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul5430&theme=dark" alt="Rahul5430" />
   </div>
+  <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rahul5430&layout=compact&theme=dracula" />
+  </div>
   <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahul5430.Rahul5430" alt="visitors">
- </div>
+  <a href="http://www.github.com/Rahul5430"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rahul5430&bg_color=181824&color=14b8a6&line=a855f7&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</div>
 
 ## 🔗 Links
 
