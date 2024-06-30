@@ -1,8 +1,13 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hi there, I'm <a href="https://rahulsharma.vercel.app" target="_blank" rel="noopener noreferrer">Rahul Sharma</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
+<div>
+  <img src="https://wakatime.com/badge/user/bc422347-c002-4bca-a9db-ef7ccfa77e4e.svg" alt="wakatime stats">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahul5430.Rahul5430" alt="visitors">
+</div>
 
 ## 🚀 About Me
 
-🎓 I am Rahul Sharma, a **Full Stack Web Developer** pursuing my Bachelors in **Electronics & Communication Engineering** from [**Punjab Engineering College**](https://pec.ac.in/).
+🎓 I am Rahul Sharma. As a full-stack cross-platform developer, I blend creativity with technical expertise to craft seamless, innovative, and user-friendly applications. With a deep passion for technology and a dedication to open-source contributions, I am committed to pushing the boundaries of what's possible in software development.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies.
 
@@ -10,13 +15,11 @@
 
 ## 🏅 Achievements
 
+-   🥇 **Winner of Internal SIH Hackathon** at _PEC_ (March 2022)
 -   ⭐ **Global rank 91** at _Codechef May Long Challenge_ (May 2021)
 -   🥇 **Winner of Robotronics-II Competition** at _PEC_ (February 2021)
 -   ⭐ **AIR 3** at _CSIO-ISTC_ (July 2018)
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2021_ (October 2021)
-<!-- -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021) -->
-<!-- -   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
--   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019) -->
 
 ## 🛠️ Skills
 
@@ -34,6 +37,7 @@
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![angularjs](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
@@ -41,7 +45,6 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-<!-- ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
 
 ### Back-End Development
 
@@ -49,12 +52,14 @@
 ![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![fast-api](https://img.shields.io/badge/Fast_Api-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-<!-- ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) -->
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### Cross Platform Development 
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 ### Database
 
@@ -62,32 +67,34 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Backend as a Service (BaaS)
+### Software as a Service (SaaS)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-<!-- 
-### Testing
-
-![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 
 ## 🖥️ Workspace Setup
 
-![i5-10th-gen](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![mx-250](https://img.shields.io/badge/NVIDIA-MX_250-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/bc422347-c002-4bca-a9db-ef7ccfa77e4e.svg" alt="wakatime stats">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahul5430.Rahul5430" alt="visitors">
-  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=rahul5430&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <br />
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=67220225" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=67220225&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @Rahul5430" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=67220225&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul5430&show_icons=true&theme=blue-green&count_private=true" width=57.5% alt="Rahul Sharma's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul5430&layout=compact&theme=blue-green&langs_count=8" width=41.5% alt="Rahul Sharma's GitHub Stats">
@@ -98,8 +105,6 @@
   <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rahul5430&layout=compact&theme=dracula" />
   </div>
-  <br />
-  <a href="http://www.github.com/Rahul5430"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rahul5430&bg_color=181824&color=14b8a6&line=a855f7&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
 ## 🔗 Links
