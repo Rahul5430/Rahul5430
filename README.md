@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="https://rahulsharma.vercel.app" target="_blank" rel="noopener noreferrer">Rahul Sharma</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hi there, I'm <a href="https://rahulsharma.vercel.app" target="_blank">Rahul Sharma</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 <div>
   <img src="https://wakatime.com/badge/user/bc422347-c002-4bca-a9db-ef7ccfa77e4e.svg" alt="wakatime stats">
